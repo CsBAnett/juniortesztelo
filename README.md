@@ -4,4 +4,5 @@
 # sziasztok!!!
 # Sziasztok Fiúk! Tegnap este 2kor még fasírtot sütöttem :)
 # és finom volt??? Hoztál nekünk kóstolót?
+# teszt sor a saját gépről írtam.....
 # végre itt vagyok
