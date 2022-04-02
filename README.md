@@ -6,3 +6,4 @@
 # és finom volt??? Hoztál nekünk kóstolót?
 # teszt sor a saját gépről írtam.....
 # végre itt vagyok
+# tesztelés ágon vagyok
