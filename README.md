@@ -7,3 +7,6 @@
 # teszt sor a saját gépről írtam.....
 # végre itt vagyok
 # tesztelés ágon vagyok
+# főágban tesztelek épp... hihi
+# mindent meg akarok tartani, összefésülés on
+
